@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "440518960999",
+    "firebase_url": "https://calories-coach.firebaseio.com",
+    "project_id": "calories-coach",
+    "storage_bucket": "calories-coach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440518960999:android:407d783a3bbd70cd",
+        "android_client_info": {
+          "package_name": "ranglerz.com.caloriescoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440518960999-sje31v0pn6oe45cm1m3atjp42n7888ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvCEFAVve53MZDKJuPLDq99iCx8K2bfdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

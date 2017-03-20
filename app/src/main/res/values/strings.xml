@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calories Coach</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="excersise_type">
+        <item>Select Excercise</item>
+        <item>Walking</item>
+        <item>Joggin</item>
+        <item>Cycling</item>
+    </string-array>
+
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2735690748218549/7817468515</string>
+
+</resources>
